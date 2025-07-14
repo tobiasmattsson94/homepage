@@ -60,10 +60,9 @@ a:link {
 }
 
 #time {
-    background-color: #99d9f9;
     border-radius: 10px;
     font-size: 240px;
-    color: white;
+    color: #99d9f9;
     font-family: "Seven Segment", "Outfit";
     margin: 0px;
     margin-bottom: 32px;
